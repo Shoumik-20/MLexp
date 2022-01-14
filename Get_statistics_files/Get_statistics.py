@@ -1,3 +1,5 @@
+# con
+
 def get_statistics(input_list):
     sorted_input = sorted(input_list)
     input_len = len(sorted_input)
